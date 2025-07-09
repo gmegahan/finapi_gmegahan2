@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'finweb-student014'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6E34C6AC90A4590AF1668E59BDB0233 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_944CB2EFA9314D5694CE64CC6258FE5F }}
